@@ -1,1 +1,1 @@
-![dicee_mobile](https://raw.githubusercontent.com/mhdiqbal19/dice_flutter/main/assets/43297852/bbba43a4-472a-4b41-85d1-6d55dd055d8d.png)
+![dicee_mobile](https://github.com/mhdiqbal19/dice_flutter/assets/43297852/5f7283d6-80d0-47d7-9c74-b0e29af92ed0){: width="50%"}
